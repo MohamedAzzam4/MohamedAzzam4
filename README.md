@@ -47,4 +47,9 @@ Over the past few years, I’ve taken on multiple leadership roles:
 
 
 Let’s connect!
+- [🔗 LinkedIn]([https://www.linkedin.com/in/your-link-here](https://www.linkedin.com/in/mohamed-azzam-61407a227/))  
+- [📄 Resume]([https://your-resume-link.com](https://www.canva.com/design/DAGpfQXMKvQ/aL7jfcLFiPo3IWnyWbEbvA/view?utm_content=DAGpfQXMKvQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h585051dcd8))
 
+---
+
+🚀 I'm open to opportunities and collaborations — especially projects involving LLMs, AI applications, and impactful tech for good.
