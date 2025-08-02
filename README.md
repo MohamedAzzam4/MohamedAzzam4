@@ -31,13 +31,7 @@ I'm a Computer Engineering graduate with **honors (Excellent with Distinction)**
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FFC107?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## 👥 Leadership & Volunteering
 
-Over the past few years, I’ve taken on multiple leadership roles:
-- Led fundraising and HR initiatives at **Life Makers Charity**
-- Worked on CRM systems and training structures for new volunteers
-- Team leader in my graduation project
-- Participated in workshops on team leadership and collaboration
 
 ## 🚀 I’m Interested In...
 
