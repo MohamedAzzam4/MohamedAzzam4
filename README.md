@@ -7,7 +7,7 @@ I'm a Computer Engineering graduate with **honors (Excellent with Distinction)**
 
 - 🤖 Fine-tuned LLMs like Qwen-1.5B for English-Arabic translation (Turjuman project)
 - 💬 Built AI-powered chatbots for language learning and humanitarian case analysis
-- 🎨 Developed deep learning models like U-Net for automatic image colorization
+- 🎨  Developed diverse AI models, including a U-Net for computer vision (image colorization) and a conversational chatbot using Natural Language Processing (NLP).
 - 🧪 Skilled in data analysis, web scraping, and production-ready deployment with FastAPI & Docker
 
 ## 🛠️ Tools & Technologies
