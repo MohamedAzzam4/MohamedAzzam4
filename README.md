@@ -42,7 +42,7 @@ I'm a Computer Engineering graduate with **honors (Excellent with Distinction)**
 
 Let’s connect!
 - [🔗 LinkedIn](https://www.linkedin.com/in/mohamed-azzam-61407a227/)  
-- [📄 Resume](https://www.canva.com/design/DAGpfQXMKvQ/aL7jfcLFiPo3IWnyWbEbvA/view?utm_content=DAGpfQXMKvQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h585051dcd8)
+- [📄 Resume](https://www.canva.com/design/DAG5iW22I2Q/woOr6wHXGkZVsEpbo27JKw/view?utm_content=DAG5iW22I2Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h16d06d96cb)
 
 ---
 
